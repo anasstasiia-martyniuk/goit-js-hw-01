@@ -8,4 +8,4 @@ function getElementWidth(content, padding, border) {
     return totalWidth;
 };
 
-console.log(getElementWidth("50px", "3px", "10px"));
+console.log(getElementWidth("50px", "8px", "4px"));
